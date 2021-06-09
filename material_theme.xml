@@ -1,9 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="premium" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="accentColor" value="ff79c5" />
     <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="-3d311c89:177acc32316:-8000" />
-    <option name="version" value="6.3.3" />
   </component>
 </application>
