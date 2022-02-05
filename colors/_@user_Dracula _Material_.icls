@@ -4,7 +4,7 @@
     <property name="created">2021-03-16T19:08:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2021-08-24T10:23:27</property>
+    <property name="modified">2022-02-05T17:12:55</property>
     <property name="originalScheme">Dracula (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3010,7 +3010,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
     <option name="SUGGESTION">
       <value>
         <option name="EFFECT_COLOR" value="6272a4" />
@@ -3120,7 +3120,7 @@
         <option name="FOREGROUND" value="8aff80" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="8aff80" />

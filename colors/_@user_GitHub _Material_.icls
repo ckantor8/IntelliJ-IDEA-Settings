@@ -4,7 +4,7 @@
     <property name="created">2021-03-16T19:08:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2021-08-24T10:23:28</property>
+    <property name="modified">2022-02-05T17:12:55</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -886,7 +886,7 @@
         <option name="BACKGROUND" value="dfecfe" />
       </value>
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="Instance property reference ID">
       <value>
         <option name="FOREGROUND" value="24292e" />
@@ -2605,7 +2605,7 @@
         <option name="FOREGROUND" value="32f62" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="5cc5" />
