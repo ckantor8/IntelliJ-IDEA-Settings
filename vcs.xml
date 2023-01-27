@@ -6,7 +6,12 @@
           <option name="url" value="http://github.gatech.edu" />
           <option name="userName" value="ckantor8" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-guides/gs-rest-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\royal\OneDrive\Desktop\CS6301\6301Spring23ckantor8\Assignment3\AddressBook\gs-rest-service" />
   </component>
 </application>
